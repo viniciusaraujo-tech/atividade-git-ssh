@@ -1,2 +1,3 @@
 Meu nome é [Vinicius], estou aprendendo Git e GitHub.
 Aprendi a configurar SSH e usar branches no Git.
+Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
