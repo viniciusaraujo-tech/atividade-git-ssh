@@ -1,1 +1,2 @@
 Meu nome é [Vinicius], estou aprendendo Git e GitHub.
+Aprendi a configurar SSH e usar branches no Git.
